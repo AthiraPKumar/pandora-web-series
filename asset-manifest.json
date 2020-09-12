@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pandora-web-series/static/css/main.a021de11.chunk.css",
+    "main.js": "/pandora-web-series/static/js/main.82bae2e4.chunk.js",
+    "main.js.map": "/pandora-web-series/static/js/main.82bae2e4.chunk.js.map",
+    "runtime-main.js": "/pandora-web-series/static/js/runtime-main.09570202.js",
+    "runtime-main.js.map": "/pandora-web-series/static/js/runtime-main.09570202.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/pandora-web-series/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.46ec0941.chunk.js": "/pandora-web-series/static/js/2.46ec0941.chunk.js",
+    "static/js/2.46ec0941.chunk.js.map": "/pandora-web-series/static/js/2.46ec0941.chunk.js.map",
+    "index.html": "/pandora-web-series/index.html",
+    "precache-manifest.70c6761d584316fa14b4b223935f5b74.js": "/pandora-web-series/precache-manifest.70c6761d584316fa14b4b223935f5b74.js",
+    "service-worker.js": "/pandora-web-series/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/pandora-web-series/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.a021de11.chunk.css.map": "/pandora-web-series/static/css/main.a021de11.chunk.css.map",
+    "static/js/2.46ec0941.chunk.js.LICENSE.txt": "/pandora-web-series/static/js/2.46ec0941.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09570202.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.46ec0941.chunk.js",
+    "static/css/main.a021de11.chunk.css",
+    "static/js/main.82bae2e4.chunk.js"
+  ]
+}
